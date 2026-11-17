@@ -1,0 +1,10 @@
+# Archivos temporales
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+
+# Configuración personal del editor
+.vscode/*
+!.vscode/extensions.json
